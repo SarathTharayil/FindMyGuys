@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Find My Guys</string>
+    <string name="enter_your_email">Enter your Email</string>
+    <string name="login">Login</string>
+    <string name="register">REGISTER</string>
+    <string name="title_location_permission">Permission needed</string>
+    <string name="text_location_permission">Allow Location Access</string>
+    <string name="ok">Ok</string>
+</resources>

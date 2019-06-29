@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1061984134760",
+    "firebase_url": "https://findmyguysnow.firebaseio.com",
+    "project_id": "findmyguysnow",
+    "storage_bucket": "findmyguysnow.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061984134760:android:79e11af96fdd0fdd",
+        "android_client_info": {
+          "package_name": "com.saraththarayil.findmyguys"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061984134760-qjv3k2hg3d28gbaaegmtbtc749hd7vk9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.saraththarayil.findmyguys",
+            "certificate_hash": "02e0992035d95d514331997a0801a4298352335c"
+          }
+        },
+        {
+          "client_id": "1061984134760-l73upjfcelaq0rharef5bvlle8upeu19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdq4ww4s0f64razPRreYZGkkSsL8MYvMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1061984134760-l73upjfcelaq0rharef5bvlle8upeu19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
